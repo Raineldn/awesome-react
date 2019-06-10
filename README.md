@@ -115,7 +115,7 @@ A collection of awesome things regarding React ecosystem.
 - [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
-- [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
+- [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact) - In Progress
 - [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
